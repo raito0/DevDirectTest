@@ -1,0 +1,1 @@
+export const TIME_SAVE_DATA_DEBOUNCE = 300;
